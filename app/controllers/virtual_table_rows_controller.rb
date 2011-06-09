@@ -1,0 +1,2 @@
+class VirtualTableRowsController < ApplicationController
+end

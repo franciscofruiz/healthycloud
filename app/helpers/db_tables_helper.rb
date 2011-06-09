@@ -1,0 +1,2 @@
+module DbTablesHelper
+end

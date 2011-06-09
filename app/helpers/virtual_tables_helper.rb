@@ -1,0 +1,2 @@
+module VirtualTablesHelper
+end
