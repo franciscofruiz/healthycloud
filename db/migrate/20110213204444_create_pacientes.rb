@@ -8,7 +8,7 @@ class CreatePacientes < ActiveRecord::Migration
       t.string :full_name
       t.integer :tipo_identificacion
       t.string :numero_identificacion
-      t.integer :genero
+      t.integer :genero_id
       t.integer :grupo_sanguineo
       t.integer :estado_civil
       t.references :entidad
